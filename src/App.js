@@ -58,7 +58,7 @@ class NflRush extends React.Component {
           className="ag-theme-alpine-button"
           onClick={this.handleDownload}
         >
-          Download Grid As CSV
+          Download2 Grid As CSV
         </button>
 
         <AgGridReact gridOptions={this.gridOptions}></AgGridReact>
